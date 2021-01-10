@@ -15,7 +15,7 @@ import re
 
 ###################################################
 # 对应方案2: 下载到本地,需要此处填写
-cookies1 = "1&_device=iPhone&58BA13C9-52BC-459D-88C1-40A87CDCCB58&2.0.9; 1&_token=228259960&97C3E1F0240CD2AADC4EE6BD6928F755FDFC550523EC460F8C95305072BB97B60DF19AE8A3C448MB9C8085231EB8B9_; NSUP=; XD=4Emn+OlZHQzjxBwH6rfg5fm+0YfPcjXXe19T0NR8rxVKWRyJ2KzW4bDMv++I32EsoIVnvRm0Tztc0ze6z9R79w==; XUM=58BA13C9-52BC-459D-88C1-40A87CDCCB58; _xmLog=xm_kjnypr0u0srgvc; ainr=0; c-oper=%E6%9C%AA%E7%9F%A5; channel=ios-b1; device_model=iPhone XR; idfa=58BA13C9-52BC-459D-88C1-40A87CDCCB58; impl=com.ximalaya.tingLite; ip=100.97.221.236; net-mode=WIFI; res=828%2C1792; s&e=509cc8a01427463c91139041d824266a"
+cookies1 = ""
 cookies2 = ""
 
 cookiesList = [cookies1, ]   # 多账号准备
